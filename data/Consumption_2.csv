@@ -1,12 +1,9 @@
-"Table 5.4.A. Sales of Electricity to Ultimate Customers by End-Use Sector,",Residential,,Commercial,,Industrial,,Transportation,,All Sectors,
-"by State, June 2020 and 2019 (Thousand Megawatthours)",,,,,,,,,,
-,,,,,,,,,,
-"Census Division
-and State",June 2020,June 2019,June 2020,June 2019,June 2020,June 2019,June 2020,June 2019,June 2020,June 2019
+States,Residential,Residential,Commercial,Commercial,Industrial,Industrial,Transportation,Transportation,All Sectors,All Sectors
+States,June 2020,June 2019,June 2020,June 2019,June 2020,June 2019,June 2020,June 2019,June 2020,June 2019
 New England,4020,3376,3854,4183,1285,1210,33,38,9192,8807
 Connecticut,1172,944,992,1040,249,238,8,10,2421,2232
 Maine,371,331,291,308,244,143,0,0,907,782
-Massachusetts,1642,1406,1773,2019,465,498,25,26,3904,3949
+Massachusetts,1642,1406,1773,2019,465,498,25,26,3,3949
 New Hampshire,395,323,335,352,161,161,0,0,891,836
 Rhode Island,270,225,314,305,58,58,1,2,643,591
 Vermont,170,147,149,158,107,111,0,0,426,417
@@ -65,11 +62,3 @@ Pacific Noncontiguous,388,366,401,465,365,408,0,0,1154,1239
 Alaska,140,131,187,209,100,97,0,0,427,436
 Hawaii,248,235,214,256,264,311,0,0,727,803
 U.S. Total,131248,119519,108654,115338,75225,80618,481,612,315608,316087
-"See Technical notes for additional information on the Commercial, Industrial, and Transportation sectors.
-Displayed values of zero may represent small values that round to zero.  The Excel version of this table provides additional precision which may be accessed by selecting individual cells.
-Notes: - See Glossary for definitions. - Values are preliminary estimates based on a cutoff model sample.
-See Technical Notes for a discussion of the sample design for the Form EIA-826.
-Utilities and energy service providers may classify commercial and industrial customers based on either NAICS codes or demands or usage falling within specified limits by rate schedule.
-Changes from year to year in consumer counts, sales and revenues, particularly involving the commercial and industrial consumer sectors, may result from respondent implementation of changes in the definitions of consumers, and reclassifications.
-Totals may not equal sum of components because of independent rounding.
-Source: U.S. Energy Information Administration, Form EIA-861M (formerly EIA-826), Monthly Electric Power Industry Report.",,,,,,,,,,
