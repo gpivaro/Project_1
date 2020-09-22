@@ -1,22 +1,22 @@
 States,Residential,,Commercial,,Industrial,,Transportation,,All Sectors_cents per Kwh,
-New England,20.47,21.2,15.39,16.35,12.38,13.11,7.23,8.91,17.16,17.73
+,,,,,,,,,,
 Connecticut,21.73,23.1,16.51,17.6,13.03,13.85,10.67,16.39,18.66,19.52
 Maine,16.91,18.18,12.64,12.4,8.53,9.24,--,--,13.28,14.26
 Massachusetts,21.01,21.36,15.18,16.53,13.87,14.25,5.26,5.2,17.41,17.89
 New Hampshire,19,20.34,15.26,15.65,12.72,12.66,--,--,16.46,16.88
 Rhode Island,19.28,20.29,14.98,15.81,15.15,15.11,41.13,18.05,16.82,17.46
 Vermont,19.67,17.52,16.96,16.16,11.16,10.96,--,--,16.58,15.25
-Middle Atlantic,16.24,16.21,13.31,12.72,6.39,6.36,12.44,11.74,13.11,12.64
+,,,,,,,,,,
 New Jersey,15.85,15.97,13.5,12.96,10.52,10.78,9.26,9.55,14.28,14.02
 New York,19.11,18.52,15.7,14.82,5.59,5.31,13.52,12.95,15.85,14.82
 Pennsylvania,13.61,14.08,8.45,8.58,6.08,6.18,7.72,6.91,9.63,9.6
-East North Central,13.55,13.71,10.51,10.28,6.92,6.77,6.61,7.89,10.6,10.18
+,,,,,,,,,,
 Illinois,12.72,13.24,9.25,8.94,6.48,6.07,6.32,7.73,9.84,9.46
 Indiana,12.61,12.61,11.01,10.81,7.06,7.34,10.38,11.28,10.07,9.89
 Michigan,16.72,16.08,12.32,11.63,8.18,7.1,12.21,10.59,13.16,11.62
 Ohio,12.06,12.71,9.48,9.8,5.88,6.16,7.05,7.31,9.4,9.6
 Wisconsin,15,15.32,11.68,11.26,8.14,7.82,17.46,15.03,11.69,11.19
-West North Central,12.99,13.29,10.62,10.68,7.71,7.95,10.02,10.93,10.71,10.74
+,,,,,,,,,,
 Iowa,13.5,14.57,10.4,11.52,6.84,7.92,--,--,9.65,10.51
 Kansas,12.88,13.3,10.73,10.75,7.4,7.48,--,--,10.9,10.85
 Minnesota,14.2,13.9,11.85,11.1,9.15,8.01,8.88,10.44,12.03,11
@@ -24,9 +24,9 @@ Missouri,12.74,12.82,10.35,10.6,7.43,7.82,10.84,11.48,11.08,11.18
 Nebraska,11.42,12.43,9.74,9.77,7.81,7.97,--,--,9.62,9.97
 North Dakota,12.09,12.47,9.76,9.68,7.87,8.61,--,--,9.38,9.7
 South Dakota,12.18,12.79,9.65,10.02,8.12,7.96,--,--,10.3,10.48
-South Atlantic,12.03,12.24,9.09,9.34,6.29,6.49,8.47,8.09,10.09,10.2
+,,,,,,,,,,
 Delaware,13.22,12.5,9.57,9.1,6.9,7.25,--,--,10.74,10.2
-District of Columbia,12.78,12.1,12.05,11.64,7.98,8.12,10.39,10.08,12.12,11.63
+,,,,,,,,,,
 Florida,11.53,12.02,9.04,9.49,7.15,7.79,7.57,8.27,10.35,10.76
 Georgia,12.71,12.46,10,9.59,5.71,5.84,6.2,6.23,10.35,10.04
 Maryland,12.84,13.26,9.57,9.83,7.59,7.61,7.83,7.34,11.01,11.19
@@ -34,17 +34,17 @@ North Carolina,11.45,11.59,8.73,8.74,6.4,6.38,8.07,8.25,9.6,9.53
 South Carolina,12.58,12.81,10.25,10.46,6.03,6.25,--,--,9.99,10.1
 Virginia,12.38,12.56,7.61,8.35,6.47,6.89,9.99,8.53,9.47,9.76
 West Virginia,11.98,11.68,9.34,8.93,6.22,6.04,--,--,8.8,8.46
-East South Central,11.52,11.62,10.82,10.75,5.61,5.8,--,--,9.59,9.61
+,,,,,,,,,,
 Alabama,12.93,12.77,11.84,11.48,6.22,6.05,--,--,10.38,10.05
 Kentucky,10.85,11.15,10.15,10.33,5.11,5.55,--,--,8.61,8.83
 Mississippi,11.21,11.4,10.25,10.35,5.51,5.66,--,--,9.18,9.28
 Tennessee,10.92,11.05,10.75,10.67,5.41,5.86,--,--,9.82,9.93
-West South Central,11.38,11.39,7.88,7.99,5.06,5.32,6.66,6.61,8.5,8.47
+,,,,,,,,,,
 Arkansas,10.67,10.35,8.97,8.97,6.21,6.17,10.73,11.94,8.7,8.46
 Louisiana,9.5,9.66,8.42,8.68,4.7,5.24,7.82,9.65,7.48,7.77
 Oklahoma,10.24,10.5,7.97,8.33,4.57,5.06,--,--,7.92,8.13
 Texas,11.99,12,7.7,7.73,5.09,5.27,6.57,6.38,8.79,8.68
-Mountain,12.27,12.31,10.22,10.15,6.57,6.64,9.59,9.71,10.01,9.85
+,,,,,,,,,,
 Arizona,12.77,12.84,11.02,10.93,6.32,6.37,10.97,11.08,11.23,11.15
 Colorado,12.96,12.84,11.47,10.96,7.49,7.63,8.89,9.16,10.94,10.61
 Idaho,10.5,10.29,8.47,8.12,7.07,7.1,--,--,8.36,8.21
@@ -53,22 +53,10 @@ Nevada,11.19,11.8,7.35,8.21,6.59,7.12,8.76,8.8,8.76,9.14
 New Mexico,13.48,13.14,10.9,10.55,5.46,5.31,--,--,9.9,9.45
 Utah,10.91,10.74,9.19,9.19,6.34,6.35,10.66,10.62,8.9,8.76
 Wyoming,11.81,11.88,10.29,10.28,6.91,6.56,--,--,8.54,8.19
-Pacific Contiguous,16.75,17.21,16.44,15.62,11.87,10.54,10.1,8.78,15.52,14.95
+,,,,,,,,,,
 California,19.79,20.87,19.15,18.39,16.17,15.04,10.09,8.67,18.78,18.54
 Oregon,11.32,11.27,8.96,8.74,6.18,6.11,9.53,9.31,9.08,8.87
 Washington,9.92,9.9,9.05,8.75,4.83,4.59,10.37,9.51,8.21,7.84
-Pacific Noncontiguous,27.16,29.26,23.97,25.56,21.06,23.8,--,--,24.13,26.07
+,,,,,,,,,,
 Alaska,23.85,23.51,20.45,20.45,17.55,17.06,--,--,20.89,20.62
 Hawaii,29.03,32.45,27.04,29.72,22.4,25.9,--,--,26.03,29.04
-U.S. Total,13.28,13.36,10.96,10.88,6.95,6.91,10.44,10.06,10.97,10.8
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-"See Technical notes for additional information on the Commercial, Industrial, and Transportation sectors.
-Displayed values of zero may represent small values that round to zero.  The Excel version of this table provides additional precision which may be accessed by selecting individual cells.
-Notes: - See Glossary for definitions. - Values are preliminary estimates based on a cutoff model sample.
-See Technical Notes for a discussion of the sample design for the Form EIA-826.
-Utilities and energy service providers may classify commercial and industrial customers based on either NAICS codes or demands or usage falling within specified limits by rate schedule.
-Changes from year to year in consumer counts, sales and revenues, particularly involving the commercial and industrial consumer sectors, may result from respondent implementation of changes in the definitions of consumers, and reclassifications.
-Totals may not equal sum of components because of independent rounding.
-Source: U.S. Energy Information Administration, Form EIA-861M (formerly EIA-826), Monthly Electric Power Industry Report.",,,,,,,,,,
