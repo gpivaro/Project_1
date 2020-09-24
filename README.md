@@ -24,20 +24,20 @@ The analysis of this project is available at the [project notebook](./Project_No
 
 ## Research Questions to answer 
 
-* Are there any correlations between Electricity prices vs population?
+* Is there any correlation between Electricity prices vs Population?
 
-* Is Cost of Living related to the cost of electricity?
+* Does the number of Power Plants correlate with the Electricity price?
 
-* (?) Does the number of power plants correlate the electricity price?
+* Does Electricity Generation correlate to Electricity price?
 
-* Local taxes (?) 
+* Is Consumption related to Electricity prices?
 
-* Are there are significant events that have affected electricity prices over the years
+* There are states where electricity is regulated. Does being regulated by local agencies matter?
 
 
 ## Data sets to be used
 
-* US Census Data – CSVs?
+* US Census Data – CSVs
 * EIA (US Energy Information Admin) API
 
 
