@@ -20,19 +20,24 @@ This repository contains the following scenario:
 
 There has been a diversification of electricity sources in the past few decades. This has led to a rising and lowering cost in the electricity depending on the source diversification and, of course, the location within the United States. We are interested in determining whether the population density will add to the cost.
 
-The analysis of this project is available at the [project notebook](./Project_Notebook.ipynb).
+The API Pull, population density data extract, and regulated states vs deregulated states analysis is in this [project notebook](./Notebooks/Project_Notebook_API_KF_2.ipynb).
+
+The analysis of Power Plant and production is in this [project notebook](./Notebooks/Project_Notebook_API_KF_GP.ipynb).
+
+The analysis of population to electricity price is in this [project notebook](./Notebooks/population%20visualizations.ipynb).
 
 ## Research Questions to answer 
 
-* Are there any correlations between Electricity prices vs population?
+* Is there any correlation between Electricity prices vs Population?
 
-* Is Cost of Living related to the cost of electricity?
+* Does the number of Power Plants correlate with the Electricity price?
 
-* (?) Does the number of power plants correlate the electricity price?
+* Does Electricity Generation correlate to Electricity price?
 
-* Local taxes (?) 
+* Is Consumption related to Electricity prices?
 
-* Are there are significant events that have affected electricity prices over the years
+* There are states where electricity is regulated. Does being regulated by local agencies matter?
+
 
 
 ## Data sets to be used
